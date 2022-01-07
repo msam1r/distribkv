@@ -1,0 +1,19 @@
+[[shards]]
+name = "Minia"
+idx = 0
+address = "127.0.0.1:8080"
+
+[[shards]]
+name = "Cairo"
+idx = 1
+address = "127.0.0.1:8081"
+
+[[shards]]
+name = "Giza"
+idx = 2
+address = "127.0.0.1:8082"
+
+[[shards]]
+name = "Aswan"
+idx = 3
+address = "127.0.0.1:8083"
